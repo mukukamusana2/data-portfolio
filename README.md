@@ -1,5 +1,5 @@
 # Mukuka Eric Musana — Data Analytics Portfolio
-I'm Mukuka Musana, a data and finance analyst with hands-on experience in SQL, Power BI, DAX, and financial statement analysis. My projects span e-commerce analytics, corporate financial modeling using SEC EDGAR data, and macroeconomic research — combining analytical rigor with clear business storytelling. I'm seeking Business Analyst, Data Analyst, or Financial Analyst roles in the United States.
+I'm Mukuka Eric Musana, a data and finance analyst with hands-on experience in SQL, Power BI, DAX, and financial statement analysis. My projects span e-commerce analytics, corporate financial modeling using SEC EDGAR data, and macroeconomic research — combining analytical rigor with clear business storytelling. I'm seeking Business Analyst, Data Analyst, or Financial Analyst roles in the United States.
 
 ## Olist Sales Performance Dashboard
 Analysis of $13.2M in revenue across 96K orders on the Olist e-commerce platform. Built using PostgreSQL for data extraction and Power BI for visualisation, covering sales trends, top categories, and seller performance.
