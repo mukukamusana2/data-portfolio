@@ -13,4 +13,7 @@ A 15-year comparative analysis of Costco, Target, and Walmart using SEC 10-K fil
 ## Top Economies in Asia
 Macroeconomic analysis of 10 Asian economies using World Bank data. Explores GDP growth, FDI, inflation, unemployment, and export trends from the 1960s through to the post-COVID recovery.
 
+## Social Media Use and Student GPA
+SQL analysis of 4,500 students exploring how daily social media use, sleep, and late-night scrolling relate to GPA. Built in PostgreSQL using CTEs and window functions (RANK, ROW_NUMBER, PARTITION BY). Heavy users (6+ hrs/day) averaged a 3.09 GPA compared with 3.73 for light users, and sleep explained only part of that gap.
+
 Contact: mukukaerick.musana@gmail.com
