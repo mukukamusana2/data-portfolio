@@ -9,7 +9,7 @@ Is heavier social media use linked to lower GPAs, and if so, why?
 - **File:** `Social_media_impact_on_life.csv` (4,500 students, 16 columns)
 - **Key columns:** daily usage hours, primary platform, sleep duration and quality, late-night usage, stress score, mental health index, GPA
 - **Missing values:** 85 GPAs and 46 stress scores are blank (excluded from averages)
-- - **Source:** (https://www.kaggle.com/datasets/harishyadav0506/impact-of-social-media-on-life)
+- **Source:** (https://www.kaggle.com/datasets/harishyadav0506/impact-of-social-media-on-life)
 
 ## Tools
 - PostgreSQL
